@@ -1,4 +1,4 @@
-# Tʜᴏᴍᴀs Sʜᴇʟʙʏ
+# Wᴀᴢᴇᴇᴍ
 Very Simple Bot Auto Filter bot
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bot+Name+»+Thomas+Shelby+Bot!;created+by+NL_BOTZ+Team!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
@@ -7,7 +7,7 @@ Very Simple Bot Auto Filter bot
   <img src="images (1).jpg" alt="Wazeem.jpg">
 </p>
 <h1 align="center">
-  <b>Thomas Shelby Bot</b>
+  <b>Manavalan Wazeem Bot</b>
 </h1>
 
 ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀᴅᴠᴀɴᴄᴇᴅ ғᴇᴀᴛᴜʀᴇs
@@ -15,7 +15,7 @@ Very Simple Bot Auto Filter bot
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO**<br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFLINE-BOy/FilterBotUpdate)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dprsxn/Wazeem)</br>
 
 #### Deploy in your VPS
 ````bash
