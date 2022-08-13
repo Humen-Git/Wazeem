@@ -4,7 +4,7 @@ Very Simple Bot Auto Filter bot
 </p>
 
 <p align="center">
-  <img src="images (1).jpeg" alt="Wazeem.jpg">
+  <img src="-6320907261219811797_120.jpeg" alt="Wazeem.jpg">
 </p>
 <h1 align="center">
   <b>Thomas Shelby Bot</b>
